@@ -9,4 +9,5 @@
 
 
   <project path="Jenkins-plugin" name="Jenkins-plugin.git" />  
+  <project path="myblog" name="myblog.git" />  
 </manifest>  
