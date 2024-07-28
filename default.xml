@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+  <remote  name="Jenkins-plugin"  
+           fetch="https://github.com:clouduu/" />  
+  <default revision="main"  
+           remote="shift"  
+           sync-j="1" />  
+ 
+  <project path="Jenkins-plugin" name="Jenkins-plugin" />  
+</manifest>  
