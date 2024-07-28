@@ -5,7 +5,7 @@
 
     <default revision="main"
               remote="clouduu"
-              sync-c="4"/>
+              sync-j="4"/>
 
 
   <project path="Jenkins-plugin" name="Jenkins-plugin.git" />  
